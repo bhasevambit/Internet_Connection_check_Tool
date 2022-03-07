@@ -14,8 +14,6 @@ do
 		fi
 	done < ./IPv4-list.txt
 
-	sleep 2
-
 	while read line
 	do
 		echo "====="
@@ -28,7 +26,7 @@ do
 		fi
 	done < ./IPv6-list.txt
 
-	sleep 2
+	sleep 5
 
 done
 
