@@ -1,3 +1,9 @@
-# Internet Connection check Tool
+# Simple Internet Connection check Tool
 
-Internet Connection Check Tool (ping to public DNSs)
+This Repository is Simple Internet Connection Check Tool (ping to public DNSs).
+
+## Environment
+- This Repository is only used in MacOS.
+
+## Note
+- When ping-lost occurred, Notification with osascript.
